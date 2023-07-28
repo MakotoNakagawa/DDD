@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42l7ATRbvOJgKa03SmTM99RJsw42u+YFIh9PpvlB7q8iJ9Je3kYPG/QEktNRY20QrIDo6PYK0lClpWHaJ+RZVQ==",
+  "dgSpecHash": "yLVoOTBcSoXQn+yqsAb+Yury1djYj5zD7/RLlal3DhlRGH2U0qHn7vADw9GJnfc+sql8dzFKeOt1IckzCxVJ6g==",
   "success": true,
   "projectFilePath": "D:\\Git\\DDD\\RazorPagesWeb\\Web\\Web.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\white\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
-    "C:\\Users\\white\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
