@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{369B278E-5B0C-4B08-84D8-0CBB218249B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5B45F120-D88E-4AA5-9C16-A8D523C1238C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{8388332E-A737-4AC1-879B-235132963E37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{369B278E-5B0C-4B08-84D8-0CBB218249B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369B278E-5B0C-4B08-84D8-0CBB218249B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369B278E-5B0C-4B08-84D8-0CBB218249B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B45F120-D88E-4AA5-9C16-A8D523C1238C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B45F120-D88E-4AA5-9C16-A8D523C1238C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B45F120-D88E-4AA5-9C16-A8D523C1238C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B45F120-D88E-4AA5-9C16-A8D523C1238C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8388332E-A737-4AC1-879B-235132963E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8388332E-A737-4AC1-879B-235132963E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8388332E-A737-4AC1-879B-235132963E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8388332E-A737-4AC1-879B-235132963E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
